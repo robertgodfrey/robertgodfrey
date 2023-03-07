@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Robs's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertgodfrey&count_private=true&show_icons=true&theme=gotham)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=robertgodfrey&count_private=true&show_icons=true&theme=gotham))
+
+[![Rob's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=robertgodfrey&count_private=true&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=robertgodfrey&count_private=true&show_icons=true&theme=gotham#gh-dark-mode-only)
+[![Rob's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=robertgodfrey&count_private=true&show_icons=true&theme=vue#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=robertgodfrey&count_private=true&show_icons=true&theme=vue#gh-light-mode-only)
