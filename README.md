@@ -1,5 +1,5 @@
 #### Hi, I'm Rob 👋<br>
-&nbsp;👨🏻‍🎓&nbsp;&nbsp;&nbsp;I'm an undergraduate Computer Science student at the University of Hawai'i at Manoa.<br>
+&nbsp; 👨🏻‍🎓&nbsp;&nbsp;&nbsp;I'm an undergraduate Computer Science student at the University of Hawai'i at Manoa.<br>
 &nbsp;🌱&nbsp;&nbsp;&nbsp;I'm currently learning embedded systems programming and the basics of designing autonomous vehicles.<br>
 &nbsp;👀&nbsp;&nbsp;&nbsp;I'm interested in working on projects related to computer vision and augmented reality.<br>
 &nbsp;🤝&nbsp;&nbsp;&nbsp;Connect with me via the links below:
