@@ -1,8 +1,8 @@
 #### Hi, I'm Rob 👋<br>
-👨🏻‍🎓&nbsp;&nbsp;&nbsp;&nbsp;I'm an undergraduate Computer Science student at the University of Hawai'i at Manoa.<br>
-🌱&nbsp;&nbsp;&nbsp;&nbsp;I'm currently learning embedded systems programming and the basics of automony.<br>
-👀&nbsp;&nbsp;&nbsp;&nbsp;I'm interested in working on projects related to computer vision and augmented reality.<br>
-🤝&nbsp;&nbsp;&nbsp;&nbsp;Connect with me via the links below:
+&nbsp;👨🏻‍🎓&nbsp;&nbsp;&nbsp;I'm an undergraduate Computer Science student at the University of Hawai'i at Manoa.<br>
+&nbsp;🌱&nbsp;&nbsp;&nbsp;I'm currently learning embedded systems programming and the basics of designing autonomous vehicles.<br>
+&nbsp;👀&nbsp;&nbsp;&nbsp;I'm interested in working on projects related to computer vision and augmented reality.<br>
+&nbsp;🤝&nbsp;&nbsp;&nbsp;Connect with me via the links below:
 
 [![Outlook](https://img.shields.io/badge/-outlook-0072C6?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:rob_godfrey@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bob-godfrey/)
