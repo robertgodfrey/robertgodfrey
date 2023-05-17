@@ -18,7 +18,7 @@
 ![CSS](https://img.shields.io/badge/css-1572B6?&style=for-the-badge&logo=css3&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/sql-0064a5?&style=for-the-badge&logo=postgresql&logoColor=ffffff)
 
-##### Frameworks & Libraries
+#### Frameworks & Libraries
 
 ![Flask](https://img.shields.io/badge/flask-eeeeee?&style=for-the-badge&logo=flask&logoColor=000000)
 ![NodeJS](https://img.shields.io/badge/node.js-3c873a?&style=for-the-badge&logo=node.js&logoColor=ffffff)
