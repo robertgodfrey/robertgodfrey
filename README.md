@@ -30,5 +30,6 @@
 
 <br>
 
-[![Rob's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=robertgodfrey&count_private=true&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=robertgodfrey&count_private=true&show_icons=true&theme=gotham#gh-dark-mode-only)
+<!--[![Rob's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=robertgodfrey&count_private=true&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=robertgodfrey&count_private=true&show_icons=true&theme=gotham#gh-dark-mode-only)
 [![Rob's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=robertgodfrey&count_private=true&show_icons=true&theme=vue#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=robertgodfrey&count_private=true&show_icons=true&theme=vue#gh-light-mode-only)
+--> 
