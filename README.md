@@ -26,10 +26,8 @@
 ![jQuery](https://img.shields.io/badge/jquery-333333?&style=for-the-badge&logo=jquery&logoColor=7ACEF4)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-8713fa?&style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 ![React](https://img.shields.io/badge/react-20232a?&style=for-the-badge&logo=react&logoColor=61dafb)
-
-
+<!--
 <br>
-
-<!--[![Rob's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=robertgodfrey&count_private=true&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=robertgodfrey&count_private=true&show_icons=true&theme=gotham#gh-dark-mode-only)
+[![Rob's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=robertgodfrey&count_private=true&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=robertgodfrey&count_private=true&show_icons=true&theme=gotham#gh-dark-mode-only)
 [![Rob's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=robertgodfrey&count_private=true&show_icons=true&theme=vue#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=robertgodfrey&count_private=true&show_icons=true&theme=vue#gh-light-mode-only)
 --> 
