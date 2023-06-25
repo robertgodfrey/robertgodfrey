@@ -10,7 +10,7 @@
 #### Languages
 
 ![Python](https://img.shields.io/badge/python-306998?&logo=python&style=for-the-badge&logoColor=FFE873)
-![Java](https://img.shields.io/badge/java-ED8B00?&style=for-the-badge&logo=oracle&logoColor=ffffff)
+![Java](https://img.shields.io/badge/java-ED8B00?&style=for-the-badge&logo=openjdk&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?&style=for-the-badge&logo=javascript&logoColor=F0DB4F)
 ![Swift](https://img.shields.io/badge/swift-ff722b?&style=for-the-badge&logo=swift&logoColor=ffffff)
 ![C/C++](https://img.shields.io/badge/c/C++-0065a8?&style=for-the-badge&logo=cplusplus&logoColor=ffffff)
