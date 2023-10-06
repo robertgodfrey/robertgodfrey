@@ -2,7 +2,7 @@
 
 I am...<br>
 &nbsp;👨🏻‍🎓&nbsp;&nbsp;&nbsp;A full-time undergraduate computer science student at the University of Hawai'i at Manoa<br>
-&nbsp;🐙&nbsp;&nbsp;&nbsp;A part-time software engineer at the [Deep-sea Animal Research Center](https://www.soest.hawaii.edu/DARC/index.php) at UHM<br>
+&nbsp;🐙&nbsp;&nbsp;&nbsp;A part-time software engineer at the [Deep-sea Animal Research Center](https://github.com/DARC-UHM) at UHM<br>
 &nbsp;🌱&nbsp;&nbsp;&nbsp;Currently learning embedded systems programming and the basics of designing software for autonomous vehicles<br>
 &nbsp;👀&nbsp;&nbsp;&nbsp;Interested in working on projects related to computer vision and augmented reality<br>
 
