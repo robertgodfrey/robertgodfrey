@@ -13,20 +13,22 @@ I am...<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?&logo=javascript&logoColor=F0DB4F)
 ![Swift](https://img.shields.io/badge/Swift-ff722b?logo=swift&logoColor=ffffff)
 ![Dart](https://img.shields.io/badge/Dart-02569B?&logo=dart&logoColor=13B9FD)
-![C/C++](https://img.shields.io/badge/C/C++-0065a8?&logo=cplusplus&logoColor=ffffff)
+![C](https://img.shields.io/badge/C-0065a8?&logo=cplusplus&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C++-0065a8?&logo=cplusplus&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/SQL-0064a5?&logo=postgresql&logoColor=ffffff)
 
 #### Frameworks & Libraries
 
 ![NodeJS](https://img.shields.io/badge/Node.js-3c873a?&logo=node.js&logoColor=ffffff)
 ![Flask](https://img.shields.io/badge/Flask-eeeeee?&logo=flask&logoColor=000000)
+![NextJS](https://img.shields.io/badge/Next.js-000000?&logo=next.js&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=13B9FD)
 ![Tailwind](https://img.shields.io/badge/Tailwind-161d2d?logo=tailwindcss&logoColor=16becb)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8713fa?logo=bootstrap&logoColor=ffffff)
 ![jQuery](https://img.shields.io/badge/jQuery-333333?logo=jquery&logoColor=7ACEF4)
 
-#### Tools
+#### Misc
 
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?logo=docker&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?logo=mongodb&logoColor=00ED64)
