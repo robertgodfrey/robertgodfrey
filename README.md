@@ -13,7 +13,7 @@ I am...<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?&logo=javascript&logoColor=F0DB4F)
 ![Swift](https://img.shields.io/badge/Swift-ff722b?logo=swift&logoColor=ffffff)
 ![Dart](https://img.shields.io/badge/Dart-02569B?&logo=dart&logoColor=13B9FD)
-![C](https://img.shields.io/badge/C-0065a8?&logo=cplusplus&logoColor=ffffff)
+![C](https://img.shields.io/badge/C-0065a8?&logo=c&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C++-0065a8?&logo=cplusplus&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/SQL-0064a5?&logo=postgresql&logoColor=ffffff)
 
